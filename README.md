@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Donald Leitanthem
-
+<img width="450" height="245" alt="image" src="https://github.com/user-attachments/assets/0062ef71-6a72-467e-82f0-6b66f83bad06" />
 🎓 BBA Student (Marketing)  
 💼 Interested in Finance & Entrepreneurship  
 📊 Skilled in Data Analysis & Business Tools  
